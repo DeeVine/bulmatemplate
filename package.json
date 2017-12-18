@@ -1,0 +1,22 @@
+{
+  "name": "bulmatemplate",
+  "version": "1.0.0",
+  "description": "bulma template",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeeVine/bulmatemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeeVine/bulmatemplate/issues"
+  },
+  "homepage": "https://github.com/DeeVine/bulmatemplate#readme",
+  "dependencies": {
+    "react-animations": "^1.0.0"
+  }
+}

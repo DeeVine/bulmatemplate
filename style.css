@@ -1,0 +1,73 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.wrapper {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+.container-fluid {
+  flex: 1 1 auto;
+}
+
+.centered { 
+  text-align: center;
+}
+
+.list li {
+  list-style-type: none;
+}
+
+header {
+  margin: 0px;
+  color: white;
+}
+
+.is-centered {
+  align-items: center;
+}
+
+.logo {
+  margin: 40px;
+  font-size: 28px;
+  font-style: italic;
+}
+
+.nav {
+  height: 100%;
+  background-color: #120961;
+  link-style: none;
+}
+
+.nav a {
+  margin: 40px;
+  color: white;
+}
+
+.nav button {
+  height: 40px;
+}
+
+.card {
+  margin: auto auto 100px auto;
+  width: 65%;
+}
+
+.restaurant-list {
+  border-radius: 10px
+}
+
+.footer { 
+  width: 100%;
+  padding: 20px;
+  position: absolute;
+  bottom: 0px;
+}
+
+.main {
+  background-image: url("food2.jpeg");
+  background-size: cover;
+}
